@@ -15,5 +15,8 @@ public class ProjectoED {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Hola chicos. Soy coco. Os voy a enseñar la diferencia\nentre mucho y poco");
+        System.out.println("8===============>   esto es mucho");
+        System.out.println("8==> esto es poco");
     }
 }
