@@ -16,6 +16,8 @@ public class JavaApplication62 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("desde sara");
+        
+        System.out.println("hola soc juanvi");
         int n = 0;
         while (n < 10) {
             System.out.println("hola");
